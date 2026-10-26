@@ -84,5 +84,6 @@ dnpt --logs
 
 This project is released under the MIT License. Refer to the `LICENSE` file for details.
 
-<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/dd54960f-d21b-4189-9d30-ba49b2412401" />
+
+<img width="1280" height="613" alt="5114293399786818913" src="https://github.com/user-attachments/assets/b8ed4648-9800-436c-b77c-e396f5d734d9" />
 
