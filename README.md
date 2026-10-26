@@ -13,6 +13,13 @@
 
 ---
 
+## Prerequisites & Dependencies
+
+- **Python 3.x:** Required to execute the core wrapper script.
+- **Nerd Fonts:** Recommended for proper rendering of terminal icons and visual indicators in the CLI interface.
+
+---
+
 ## Command Reference
 
 ### APT Translation Commands
