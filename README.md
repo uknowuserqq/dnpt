@@ -17,13 +17,13 @@
 
 | APT Source Command | Translated DNF Execution | Description |
 | :--- | :--- | :--- |
-| `dnpt update` | `dnf check-update` | Refresh local repository metadata |
-| `dnpt upgrade` | `dnf upgrade` | Upgrade all installed packages |
-| `dnpt install <package>` | `dnf install <package>` | Download and install target package |
-| `dnpt remove <package>` | `dnf remove <package>` | Uninstall target package |
-| `dnpt purge <package>` | `dnf remove <package>` | Remove package and configuration files |
-| `dnpt search <query>` | `dnf search <query>` | Query repositories for matching packages |
-| `dnpt autoremove` | `dnf autoremove` | Remove orphaned dependencies |
+| `apt update` | `dnf check-update` | Refresh local repository metadata |
+| `apt upgrade` | `dnf upgrade` | Upgrade all installed packages |
+| `apt install <package>` | `dnf install <package>` | Download and install target package |
+| `apt remove <package>` | `dnf remove <package>` | Uninstall target package |
+| `apt purge <package>` | `dnf remove <package>` | Remove package and configuration files |
+| `apt search <query>` | `dnf search <query>` | Query repositories for matching packages |
+| `apt autoremove` | `dnf autoremove` | Remove orphaned dependencies |
 
 ---
 
